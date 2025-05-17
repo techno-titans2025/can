@@ -117,7 +117,7 @@ if ($email) {
                         <div class="textbox">
                             <input
                                 placeholder="Enter Your Email"
-                                type="email"
+                                type="name"
                                 name="email"
                                 id="email"
                                 class="text"
@@ -127,7 +127,7 @@ if ($email) {
                     </div>
                     <div class="box">
                         <div class="submit_botton">
-                            <button type="submit" name="submit" id="submit" class="botton">
+                            <button type="submit" name="submit" class="botton">
                                 <span class="text btn">Submit</span>
                             </button>
                         </div>

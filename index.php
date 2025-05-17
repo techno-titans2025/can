@@ -127,7 +127,7 @@ if ($email) {
                     </div>
                     <div class="box">
                         <div class="submit_botton">
-                            <button type="submit" name="submit" class="botton">
+                            <button type="submit" name="submit" class="botton" id="submit">
                                 <span class="text btn">Submit</span>
                             </button>
                         </div>

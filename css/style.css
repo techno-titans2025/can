@@ -1,6 +1,9 @@
 body {
   background-color: gray;
-  margin: 0px;
+  background-image: url("../css/20250517_094113.jpg");
+  background-repeat: no-repeat;
+  background-size: 1600 px;
+ 
 }
 header {
   background-color: black;

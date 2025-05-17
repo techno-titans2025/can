@@ -1,12 +1,10 @@
-<?php
-?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>EAI CHECKER</title>
-    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
     <main>
@@ -35,7 +33,7 @@
 
             <div class="box">
               <div class="submit_botton">
-                <button type="submit" value="submit" class="botton">
+                <button type="submit" name="submit" class="botton">
                   <span class="text btn">Submit</span>
                 </button>
               </div>
@@ -59,3 +57,6 @@
     </main>
   </body>
 </html>
+<?php
+if(isset($_POST['']))
+?>
